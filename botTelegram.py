@@ -15,7 +15,7 @@ import re
 # nest_asyncio.apply()
 
 # API key từ OpenWeatherMap
-OPENWEATHERMAP_API_KEY = '044e2725f98749af7a70ad8dbd87d9c4'
+OPENWEATHERMAP_API_KEY = '<API_KEY_OPENWEATHERMAP>'
 
 # Hàm bắt đầu bot
 async def start(update: Update, context: CallbackContext) -> None:
@@ -148,7 +148,7 @@ async def reply(update: Update, context: CallbackContext) -> None:
 
 def main() -> None:
     # Nhập mã thông báo của bạn tại đây
-    token = '7108158962:AAFbwa-quvDHgK5zswKGLlUbXS5L_iOpFFE'
+    token = '<TOKEN_TELEGRAM_BOT>'
 
     # Tạo application
     application = Application.builder().token(token).build()
