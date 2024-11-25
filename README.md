@@ -142,6 +142,3 @@ Chúc ngủ ngon! 😴
 ## Future Enhancements
 - Add support for more advanced features like task reminders and note-taking.
 - Enhance natural language understanding for commands.
-``` 
-
-This README is structured to guide users in understanding, setting up, and using your bot effectively. Let me know if you want to add more details or make adjustments!
